@@ -8,6 +8,7 @@ Just cool stuff that I didn't have time to look at when I discovered it
   - [k9ss](https://k9ss.io/)
   - [pulumi](https://www.pulumi.com/)
   - [kubectx](https://github.com/ahmetb/kubectx)
+  - [rakkess](https://github.com/corneliusweig/rakkess)
   
 ## Presentations
   - [k8s cluster fuck](https://ftp.osuosl.org/pub/fosdem/2019/UD2.120/kubernetesclusterfuck.mp4)
