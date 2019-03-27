@@ -10,6 +10,8 @@ Just cool stuff that I didn't have time to look at when I discovered it
   - [kubectx](https://github.com/ahmetb/kubectx)
   - [rakkess](https://github.com/corneliusweig/rakkess)
   - [kubefwd](https://github.com/txn2/kubefwd)
+  - [kustomize](https://github.com/kubernetes-sigs/kustomize)
+  - [kapitan](https://github.com/deepmind/kapitan)
   
   
 ## Event/Message Buses
